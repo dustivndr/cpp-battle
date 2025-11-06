@@ -1,4 +1,4 @@
 # cpp-battle
-Simple ascii battle game in C++
+Simple ASCII battle and quiz game in C++
 
 In Progress
