@@ -1,6 +1,6 @@
 # Cowboy C++, Battle and Quiz Game
 
-Simple ASCII battle and quiz game in C++, works in Windows Terminal.<br />
+Simple ASCII battle and quiz game in C++, works in Windows/Linux Terminal.<br />
 This is a small project created for fun and is not part of any university coursework.
 
 **Currently In Progress**
