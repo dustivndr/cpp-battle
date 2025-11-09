@@ -14,14 +14,14 @@ The more bosses you discover, the harder the difficulty will be. You and the bos
 
 ### Attack
 
-When you attack the boss, there's a chance for the attack to be critical (deals double damage) or 0 (attack fail).
+When you attack the boss, there's a chance for the attack to be critical (deals double damage) or 0 (attack fails).
 Attacking an easy boss is 100% guaranteed to succeed (no fail attack).
 
 #### Boosted Attack
 
 This is where the quiz part is.<br />
 You can double the attack damage by answering one quiz question correctly.
-The Attack Booster can only be used once per battle. How long will the effect last depends on the boss difficulty.
+The Attack Booster can only be used once per battle. How long the effect will last depends on the boss's difficulty.
 
 | Difficulty | Apply to  |
 | :--------- | :-------: |
