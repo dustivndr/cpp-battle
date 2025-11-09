@@ -39,8 +39,8 @@ A "move" refers to each time you choose to attack or defend.
 
 ### Defend
 
-When defending, the player has a 50% chance to block all damage or reflect the boss's attack back at them.
-For hard bosses, only 50% of their attack damage is reflected back when defending.
+When defending, the player has a 50% chance to block all damage or reflect the boss's attack at them.
+For hard bosses, only 50% of their attack damage is reflected when defending.
 
 ### Player's Health
 
