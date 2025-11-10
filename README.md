@@ -1,6 +1,6 @@
 # Cowboy C++, Battle and Quiz Game
 
-Simple ASCII battle and quiz game in C++, works in Windows/Linux Terminal.<br />
+Simple ASCII battle and quiz game in C++, works in Windows/Linux Terminal (at least in Fedora, where I write the code).<br />
 This is a small project created for fun and is not part of any university coursework.
 
 **Currently In Progress**
@@ -31,7 +31,7 @@ The Attack Booster can only be used once per battle. How long the effect will la
 
 A "move" refers to each time you choose to attack or defend.
 
-- Every attack or defend action counts as one move.
+- Every attack or defence action counts as one move.
 - For example, if you encounter a medium boss and use the attack booster:
   - First move: attack (damage is doubled)
   - Second move: defend
