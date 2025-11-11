@@ -45,3 +45,7 @@ For hard bosses, only 50% of their attack damage is reflected when defending.
 ### Player's Health
 
 While wandering (not in battle), the player's HP automatically increases by 1 point every second, up to a maximum HP limit.
+
+<hr />
+
+More features will be added...
